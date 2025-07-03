@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sometimes I need to make create projects NOW: in the moment. 
+Sometimes I need to work on projects NOW: in the moment. 
 
 Some days I just need to release something, even if it is not finished. 
 
